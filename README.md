@@ -1,5 +1,16 @@
 # @tailor-platform/tailor-mcp
 
+> [!WARNING]
+> **This repository is archived and no longer maintained.**
+>
+> Use the **Remote MCP server** instead. It connects directly to your application
+> at `https://{YOUR_APP_SUBDOMAIN}.erp.dev/mcp` over OAuth2 — no local binary,
+> no Personal Access Token to manage.
+>
+> Setup guide: **[Integrate Claude and Claude Code with Tailor Platform](https://docs.tailor.tech/guides/integration/claude.html)**
+>
+> Everything below is kept for reference only.
+
 [![npm version](https://img.shields.io/npm/v/@tailor-platform/tailor-mcp.svg)](https://www.npmjs.com/package/@tailor-platform/tailor-mcp)
 
 The npm package `@tailor-platform/tailor-mcp` is a tool for automatically installing the [tailorctl](https://github.com/tailor-platform/tailorctl) command-line utility, with a focus on MCP (Model Context Protocol) server functionality.
