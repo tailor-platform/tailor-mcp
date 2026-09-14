@@ -20,7 +20,7 @@
   "dependencies": {
     "@tailor-platform/tailor-mcp": "^0.0.2",
     "axios": "^1.6.0",
-    "tar": "^6.2.0"
+    "tar": "^7.0.0"
   },
   "engines": {
     "node": ">=14.0.0"
