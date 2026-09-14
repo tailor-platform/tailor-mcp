@@ -1,5 +1,16 @@
 # LLM Assisted Installation Guide
 
+> [!WARNING]
+> **Deprecated.** This package is archived. Do not install it.
+>
+> Register the Remote MCP server instead — `https://{YOUR_APP_SUBDOMAIN}.erp.dev/mcp`:
+>
+> ```bash
+> claude mcp add --transport http tailor https://{YOUR_APP_SUBDOMAIN}.erp.dev/mcp --client-id <CLIENT_ID> --callback-port 3000
+> ```
+>
+> Full guide: https://docs.tailor.tech/guides/integration/claude.html
+
 This file provides AI agents with instructions for automatically installing and configuring this MCP server.
 
 ## Prerequisites
